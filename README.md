@@ -1,2 +1,2 @@
 # conflicts
-issue merge &amp; conflicts
+issue merge &amp; conflicts (exercise)
